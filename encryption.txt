@@ -1,0 +1,2 @@
+You can encode any text to any length.
+To do this, enter your text in this file and run the program. 
